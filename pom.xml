@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.7.71.205:9905/repository/maven-web-app-release/</url>
+	      <url>http://43.204.211.6:9905/repository/maven-web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.7.71.205:9905/repository/maven-web-app-snapshot/</url>
+	      <url>http://43.204.211.6:9905/repository/maven-web-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
